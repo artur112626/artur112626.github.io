@@ -1,0 +1,83 @@
+
+        body{
+        padding-left:20%;
+        padding-right:20%;
+        background:URL('wallpapersden.com_background-of-fortnite-chapter-2_1680x1050.jpg');
+        background-size:cover;
+        }   
+        
+        header{
+            background: url('defeated.jpg');
+            padding : 5%;
+            font-size: 3vw;
+            font-family:Arial;
+            color:violet;
+        }
+        nav {
+                
+            font-size: 2vw;
+            color:red;
+            font-family:Arial;
+            padding: 10px;
+        }
+        nav a{
+            background:violet;
+            padding:10px;
+            text-decoration:none; 
+            
+            color:aqua ;       
+        }
+        nav a:hover{
+            background:  blueviolet;
+            color: white;
+            font-family:Arial;
+        }
+        
+        main{
+            background:brown;
+            font-size:2vw;
+            padding-left: 2%;
+            padding-right:2%;
+            color:yellowgreen;
+            font-family:Arial;
+        } 
+        
+        .games section{
+            background:aquamarine;
+            padding:3%;
+            margin-top:5%;
+            height:20vh;
+            border-radius: 90px;
+            border: 4px groove blueviolet;
+            border-top:10px outset blue;
+            border-bottom-right-radius:90px;
+            border-bottom-left-radius:90px
+        }
+        
+        .games section img{
+            height:100%;
+            border: 4px groove blue;
+        }
+        .animals section img{
+            width:100%;
+            
+
+        }
+
+        .animals{
+            height:30vh;
+        }
+        footer{
+            background:indigo;
+            font-size:1vw;
+            color:white;
+            font-family:Arial; 
+        }
+        .animals section{
+            background:darkcyan;
+            width:25%;
+            float:left;
+            margin-left:6.25%;
+            text-align:center
+        }
+        
